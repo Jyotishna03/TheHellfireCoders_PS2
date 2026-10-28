@@ -1,0 +1,1653 @@
+{
+  "users": [
+    {
+      "id": "USR-001",
+      "name": "Dr. T. G. Sitharam",
+      "email": "chairman@aicte-india.org",
+      "role": "SUPER_ADMIN",
+      "designation": "AICTE Council Chairman & Super Administrator"
+    },
+    {
+      "id": "USR-002",
+      "name": "Rajiv Kumar",
+      "email": "rajiv.kumar@aicte.gov.in",
+      "role": "AICTE_OFFICER",
+      "designation": "Director (Approval & Security Deposits)"
+    },
+    {
+      "id": "USR-003",
+      "name": "Dr. Sneha Kulkarni",
+      "email": "principal@rvce.edu.in",
+      "role": "COLLEGE_ADMIN",
+      "designation": "Registrar & Authorized Finance Representative",
+      "institutionId": "INST-001",
+      "institutionName": "R.V. College of Engineering, Bengaluru"
+    },
+    {
+      "id": "USR-004",
+      "name": "Vinod Sharma",
+      "email": "v.sharma@cag.gov.in",
+      "role": "AUDITOR",
+      "designation": "Principal Financial Auditor (Empanelled Reviewer)"
+    }
+  ],
+  "institutions": [
+    {
+      "id": "INST-001",
+      "code": "1-10972361",
+      "name": "R.V. College of Engineering",
+      "type": "Engineering College",
+      "state": "Karnataka",
+      "city": "Bengaluru",
+      "address": "Mysore Road, RV Vidyanikethan Post, Bengaluru 560059",
+      "email": "principal@rvce.edu.in",
+      "phone": "+91-80-68188100",
+      "totalDeposits": 4,
+      "totalValue": 12500000,
+      "complianceStatus": "Compliant"
+    },
+    {
+      "id": "INST-002",
+      "code": "1-20984511",
+      "name": "Delhi Technological University",
+      "type": "University",
+      "state": "Delhi",
+      "city": "New Delhi",
+      "address": "Shahbad Daulatpur, Main Bawana Road, Delhi 110042",
+      "email": "registrar@dtu.ac.in",
+      "phone": "+91-11-27871018",
+      "totalDeposits": 6,
+      "totalValue": 25000000,
+      "complianceStatus": "Compliant"
+    },
+    {
+      "id": "INST-003",
+      "code": "1-34891024",
+      "name": "College of Engineering Pune (COEP)",
+      "type": "Engineering College",
+      "state": "Maharashtra",
+      "city": "Pune",
+      "address": "Wellesley Road, Shivajinagar, Pune 411005",
+      "email": "dean@coeptech.ac.in",
+      "phone": "+91-20-25507000",
+      "totalDeposits": 5,
+      "totalValue": 18000000,
+      "complianceStatus": "Compliant"
+    },
+    {
+      "id": "INST-004",
+      "code": "1-45671239",
+      "name": "PSG College of Technology",
+      "type": "Engineering College",
+      "state": "Tamil Nadu",
+      "city": "Coimbatore",
+      "address": "Avinashi Road, Peelamedu, Coimbatore 641004",
+      "email": "principal@psgtech.ac.in",
+      "phone": "+91-422-2572177",
+      "totalDeposits": 3,
+      "totalValue": 11000000,
+      "complianceStatus": "Compliant"
+    },
+    {
+      "id": "INST-005",
+      "code": "1-51290384",
+      "name": "Birla Institute of Technology, Mesra",
+      "type": "University",
+      "state": "Jharkhand",
+      "city": "Ranchi",
+      "address": "Mesra, Ranchi 835215",
+      "email": "registrar@bitmesra.ac.in",
+      "phone": "+91-651-2275444",
+      "totalDeposits": 3,
+      "totalValue": 15000000,
+      "complianceStatus": "Pending Review"
+    },
+    {
+      "id": "INST-006",
+      "code": "1-69830214",
+      "name": "Veermata Jijabai Technological Institute (VJTI)",
+      "type": "Engineering College",
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "address": "H. R. Mahajani Marg, Matunga, Mumbai 400019",
+      "email": "director@vjti.ac.in",
+      "phone": "+91-22-24198101",
+      "totalDeposits": 2,
+      "totalValue": 8000000,
+      "complianceStatus": "Compliant"
+    },
+    {
+      "id": "INST-007",
+      "code": "1-74892011",
+      "name": "BMS College of Engineering",
+      "type": "Engineering College",
+      "state": "Karnataka",
+      "city": "Bengaluru",
+      "address": "Bull Temple Road, Basavanagudi, Bengaluru 560019",
+      "email": "principal@bmsce.ac.in",
+      "phone": "+91-80-26622130",
+      "totalDeposits": 3,
+      "totalValue": 13500000,
+      "complianceStatus": "Compliant"
+    },
+    {
+      "id": "INST-008",
+      "code": "1-89301244",
+      "name": "Government Polytechnic Mumbai",
+      "type": "Polytechnic",
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "address": "49, Kherwadi, Ali Yavar Jung Marg, Bandra East, Mumbai 400051",
+      "email": "principal@gpmumbai.ac.in",
+      "phone": "+91-22-26474587",
+      "totalDeposits": 2,
+      "totalValue": 5000000,
+      "complianceStatus": "Pending Review"
+    },
+    {
+      "id": "INST-009",
+      "code": "1-90412855",
+      "name": "Institute of Chemical Technology (ICT)",
+      "type": "University",
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "address": "Nathalal Parekh Marg, Matunga, Mumbai 400019",
+      "email": "vc@ictmumbai.edu.in",
+      "phone": "+91-22-33611111",
+      "totalDeposits": 4,
+      "totalValue": 20000000,
+      "complianceStatus": "Compliant"
+    },
+    {
+      "id": "INST-010",
+      "code": "1-10294821",
+      "name": "Harcourt Butler Technical University",
+      "type": "University",
+      "state": "Uttar Pradesh",
+      "city": "Kanpur",
+      "address": "Nawabganj, Kanpur 208002",
+      "email": "registrar@hbtu.ac.in",
+      "phone": "+91-512-2534001",
+      "totalDeposits": 3,
+      "totalValue": 9500000,
+      "complianceStatus": "Non-Compliant"
+    }
+  ],
+  "fdrs": [
+    {
+      "id": "FDR-2026-0011",
+      "institutionId": "INST-001",
+      "institutionName": "R.V. College of Engineering",
+      "institutionCode": "1-10972361",
+      "bankName": "State Bank of India",
+      "bankBranch": "University Campus Branch",
+      "fdrNumber": "SBI-FDR-214966",
+      "accountNumberMasked": "•••• •••• 8255",
+      "principalAmount": 3500000,
+      "interestRate": 7.1,
+      "issueDate": "2024-04-10",
+      "maturityDate": "2029-04-10",
+      "depositHolder": "AICTE New Delhi a/c R.V. College of Engineering",
+      "receiptReference": "REF/AICTE/2024/SEC/614",
+      "documentFileName": "Sample_1_SBI_RVCE_35Lakh_Valid.pdf",
+      "documentFilePath": "/uploads/1793174460635_Sample_1_SBI_RVCE_35Lakh_Valid.pdf",
+      "documentMimeType": "application/pdf",
+      "documentSizeBytes": 3525,
+      "documentHash": "5e59c7e8669e7cbc1a796741f0a21a607aa0ac7f14ee1ec9055dea12d94667ae",
+      "status": "PENDING_VERIFICATION",
+      "flags": [],
+      "ocrData": {
+        "institutionName": {
+          "value": "R.V. College of Engineering",
+          "confidence": 100,
+          "flagged": false
+        },
+        "institutionCode": {
+          "value": "1-10972361",
+          "confidence": 100,
+          "flagged": false
+        },
+        "bankName": {
+          "value": "State Bank of India",
+          "confidence": 100,
+          "flagged": false
+        },
+        "bankBranch": {
+          "value": "University Campus Branch",
+          "confidence": 98,
+          "flagged": false
+        },
+        "fdrNumber": {
+          "value": "SBI-FDR-214966",
+          "confidence": 100,
+          "flagged": false
+        },
+        "accountNumber": {
+          "value": "9847108255",
+          "confidence": 97,
+          "flagged": false
+        },
+        "principalAmount": {
+          "value": "3500000",
+          "confidence": 100,
+          "flagged": false
+        },
+        "interestRate": {
+          "value": "7.1",
+          "confidence": 96,
+          "flagged": false
+        },
+        "issueDate": {
+          "value": "2024-04-10",
+          "confidence": 99,
+          "flagged": false
+        },
+        "maturityDate": {
+          "value": "2029-04-10",
+          "confidence": 99,
+          "flagged": false
+        },
+        "depositHolder": {
+          "value": "AICTE New Delhi a/c R.V. College of Engineering",
+          "confidence": 98,
+          "flagged": false
+        },
+        "receiptReference": {
+          "value": "REF/AICTE/2024/SEC/614",
+          "confidence": 98,
+          "flagged": false
+        },
+        "overallConfidence": 100,
+        "engine": "Manual Entry Fallback Verification",
+        "isFallbackManual": true,
+        "processedAt": "2026-10-28T08:01:00.638Z"
+      },
+      "uploadedBy": "Dr. T. G. Sitharam",
+      "uploadedByRole": "SUPER_ADMIN",
+      "createdAt": "2026-10-28T08:01:00.638Z",
+      "updatedAt": "2026-10-28T08:01:00.638Z"
+    },
+    {
+      "id": "FDR-2026-0001",
+      "institutionId": "INST-001",
+      "institutionName": "R.V. College of Engineering",
+      "institutionCode": "1-10972361",
+      "bankName": "State Bank of India",
+      "bankBranch": "Mysore Road Campus Branch, Bengaluru",
+      "fdrNumber": "SBI-FDR-8890214",
+      "accountNumberMasked": "•••• •••• 9012",
+      "principalAmount": 3500000,
+      "interestRate": 7.1,
+      "issueDate": "2023-04-10",
+      "maturityDate": "2028-04-10",
+      "depositHolder": "AICTE New Delhi a/c RV College of Engineering",
+      "receiptReference": "REF/KA/2023/SEC/0109",
+      "documentFileName": "rvce_sbi_fdr_35lakh.pdf",
+      "documentFilePath": "/uploads/sample_fdr_rvce.pdf",
+      "documentMimeType": "application/pdf",
+      "documentSizeBytes": 420180,
+      "documentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "status": "VERIFIED",
+      "flags": [],
+      "ocrData": {
+        "institutionName": {
+          "value": "R.V. College of Engineering",
+          "confidence": 98,
+          "flagged": false
+        },
+        "institutionCode": {
+          "value": "1-10972361",
+          "confidence": 99,
+          "flagged": false
+        },
+        "bankName": {
+          "value": "State Bank of India",
+          "confidence": 97,
+          "flagged": false
+        },
+        "bankBranch": {
+          "value": "Mysore Road Campus",
+          "confidence": 94,
+          "flagged": false
+        },
+        "fdrNumber": {
+          "value": "SBI-FDR-8890214",
+          "confidence": 99,
+          "flagged": false
+        },
+        "accountNumber": {
+          "value": "9847291012",
+          "confidence": 96,
+          "flagged": false
+        },
+        "principalAmount": {
+          "value": "3500000",
+          "confidence": 99,
+          "flagged": false
+        },
+        "interestRate": {
+          "value": "7.1",
+          "confidence": 92,
+          "flagged": false
+        },
+        "issueDate": {
+          "value": "2023-04-10",
+          "confidence": 98,
+          "flagged": false
+        },
+        "maturityDate": {
+          "value": "2028-04-10",
+          "confidence": 98,
+          "flagged": false
+        },
+        "depositHolder": {
+          "value": "AICTE New Delhi a/c RV College of Engineering",
+          "confidence": 96,
+          "flagged": false
+        },
+        "receiptReference": {
+          "value": "REF/KA/2023/SEC/0109",
+          "confidence": 95,
+          "flagged": false
+        },
+        "overallConfidence": 96.8,
+        "engine": "Tesseract OCR + LayoutLM",
+        "isFallbackManual": false,
+        "processedAt": "2023-04-11T10:15:00Z"
+      },
+      "verifiedBy": "Rajiv Kumar (AICTE Officer)",
+      "verifiedAt": "2023-04-12T14:30:00Z",
+      "uploadedBy": "Dr. Sneha Kulkarni",
+      "uploadedByRole": "COLLEGE_ADMIN",
+      "createdAt": "2023-04-11T09:30:00Z",
+      "updatedAt": "2023-04-12T14:30:00Z"
+    },
+    {
+      "id": "FDR-2026-0002",
+      "institutionId": "INST-002",
+      "institutionName": "Delhi Technological University",
+      "institutionCode": "1-20984511",
+      "bankName": "Punjab National Bank",
+      "bankBranch": "Bawana Industrial Area, New Delhi",
+      "fdrNumber": "PNB-DEL-9921443",
+      "accountNumberMasked": "•••• •••• 4421",
+      "principalAmount": 5000000,
+      "interestRate": 7.25,
+      "issueDate": "2022-08-15",
+      "maturityDate": "2027-08-15",
+      "depositHolder": "AICTE a/c Delhi Technological University",
+      "receiptReference": "REF/DL/2022/SEC/0441",
+      "documentFileName": "dtu_pnb_security_deposit.pdf",
+      "documentFilePath": "/uploads/sample_fdr_dtu.pdf",
+      "documentMimeType": "application/pdf",
+      "documentSizeBytes": 310240,
+      "documentHash": "ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb",
+      "status": "VERIFIED",
+      "flags": [],
+      "ocrData": {
+        "institutionName": {
+          "value": "Delhi Technological University",
+          "confidence": 99,
+          "flagged": false
+        },
+        "institutionCode": {
+          "value": "1-20984511",
+          "confidence": 98,
+          "flagged": false
+        },
+        "bankName": {
+          "value": "Punjab National Bank",
+          "confidence": 96,
+          "flagged": false
+        },
+        "bankBranch": {
+          "value": "Bawana Ind Area",
+          "confidence": 93,
+          "flagged": false
+        },
+        "fdrNumber": {
+          "value": "PNB-DEL-9921443",
+          "confidence": 99,
+          "flagged": false
+        },
+        "accountNumber": {
+          "value": "8871024421",
+          "confidence": 95,
+          "flagged": false
+        },
+        "principalAmount": {
+          "value": "5000000",
+          "confidence": 99,
+          "flagged": false
+        },
+        "interestRate": {
+          "value": "7.25",
+          "confidence": 95,
+          "flagged": false
+        },
+        "issueDate": {
+          "value": "2022-08-15",
+          "confidence": 97,
+          "flagged": false
+        },
+        "maturityDate": {
+          "value": "2027-08-15",
+          "confidence": 97,
+          "flagged": false
+        },
+        "depositHolder": {
+          "value": "AICTE a/c Delhi Technological University",
+          "confidence": 96,
+          "flagged": false
+        },
+        "receiptReference": {
+          "value": "REF/DL/2022/SEC/0441",
+          "confidence": 94,
+          "flagged": false
+        },
+        "overallConfidence": 96.5,
+        "engine": "Tesseract OCR + LayoutLM",
+        "isFallbackManual": false,
+        "processedAt": "2022-08-16T11:00:00Z"
+      },
+      "verifiedBy": "Rajiv Kumar (AICTE Officer)",
+      "verifiedAt": "2022-08-17T16:20:00Z",
+      "uploadedBy": "DTU Authorized Finance Desk",
+      "uploadedByRole": "COLLEGE_ADMIN",
+      "createdAt": "2022-08-16T10:00:00Z",
+      "updatedAt": "2022-08-17T16:20:00Z"
+    },
+    {
+      "id": "FDR-2026-0003",
+      "institutionId": "INST-005",
+      "institutionName": "Birla Institute of Technology, Mesra",
+      "institutionCode": "1-51290384",
+      "bankName": "Canara Bank",
+      "bankBranch": "Main Road Branch, Ranchi",
+      "fdrNumber": "CNB-SEC-7740192",
+      "accountNumberMasked": "•••• •••• 1928",
+      "principalAmount": 5000000,
+      "interestRate": 6.9,
+      "issueDate": "2024-01-20",
+      "maturityDate": "2029-01-20",
+      "depositHolder": "Birla Institute of Technology Mesra AICTE Joint Account",
+      "receiptReference": "REF/JH/2024/SEC/0091",
+      "documentFileName": "bit_mesra_fdr_scan.jpg",
+      "documentFilePath": "/uploads/sample_fdr_bit.jpg",
+      "documentMimeType": "image/jpeg",
+      "documentSizeBytes": 624100,
+      "documentHash": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce",
+      "status": "FLAGGED_FOR_REVIEW",
+      "flags": [
+        {
+          "id": "FLAG-001",
+          "ruleCode": "RULE_NAME_MISMATCH",
+          "title": "Potential Institution Name Discrepancy",
+          "description": "Extracted certificate header shows \"Birla Institute of Technology Trust\" rather than full registered educational institute title. Manual scrutiny advised.",
+          "severity": "MEDIUM",
+          "resolved": false
+        },
+        {
+          "id": "FLAG-002",
+          "ruleCode": "RULE_LOW_OCR_CONFIDENCE",
+          "title": "Low OCR Extraction Confidence",
+          "description": "Document scan has slight blur on the branch manager seal area (confidence 68%). Visual inspection recommended.",
+          "severity": "LOW",
+          "resolved": false
+        }
+      ],
+      "ocrData": {
+        "institutionName": {
+          "value": "Birla Institute of Technology Trust",
+          "confidence": 71,
+          "flagged": true
+        },
+        "institutionCode": {
+          "value": "1-51290384",
+          "confidence": 85,
+          "flagged": false
+        },
+        "bankName": {
+          "value": "Canara Bank",
+          "confidence": 91,
+          "flagged": false
+        },
+        "bankBranch": {
+          "value": "Main Road Ranchi",
+          "confidence": 68,
+          "flagged": true
+        },
+        "fdrNumber": {
+          "value": "CNB-SEC-7740192",
+          "confidence": 89,
+          "flagged": false
+        },
+        "accountNumber": {
+          "value": "7721091928",
+          "confidence": 82,
+          "flagged": false
+        },
+        "principalAmount": {
+          "value": "5000000",
+          "confidence": 94,
+          "flagged": false
+        },
+        "interestRate": {
+          "value": "6.9",
+          "confidence": 84,
+          "flagged": false
+        },
+        "issueDate": {
+          "value": "2024-01-20",
+          "confidence": 90,
+          "flagged": false
+        },
+        "maturityDate": {
+          "value": "2029-01-20",
+          "confidence": 89,
+          "flagged": false
+        },
+        "depositHolder": {
+          "value": "Birla Inst Tech Mesra Joint a/c",
+          "confidence": 79,
+          "flagged": false
+        },
+        "receiptReference": {
+          "value": "REF/JH/2024/SEC/0091",
+          "confidence": 86,
+          "flagged": false
+        },
+        "overallConfidence": 74.2,
+        "engine": "Tesseract OCR",
+        "isFallbackManual": false,
+        "processedAt": "2024-01-22T08:30:00Z"
+      },
+      "uploadedBy": "BIT Mesra Finance Section",
+      "uploadedByRole": "COLLEGE_ADMIN",
+      "createdAt": "2024-01-22T08:00:00Z",
+      "updatedAt": "2024-01-22T08:35:00Z"
+    },
+    {
+      "id": "FDR-2026-0004",
+      "institutionId": "INST-008",
+      "institutionName": "Government Polytechnic Mumbai",
+      "institutionCode": "1-89301244",
+      "bankName": "Bank of Baroda",
+      "bankBranch": "Bandra East Branch, Mumbai",
+      "fdrNumber": "BOB-MUM-5501928",
+      "accountNumberMasked": "•••• •••• 5510",
+      "principalAmount": 2500000,
+      "interestRate": 6.8,
+      "issueDate": "2024-02-14",
+      "maturityDate": "2026-11-20",
+      "depositHolder": "AICTE Security Deposit a/c Govt Polytechnic Mumbai",
+      "receiptReference": "REF/MH/2024/GP/0192",
+      "documentFileName": "gp_mumbai_bob_fdr.pdf",
+      "documentFilePath": "/uploads/sample_gp_mumbai.pdf",
+      "documentMimeType": "application/pdf",
+      "documentSizeBytes": 290100,
+      "documentHash": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a",
+      "status": "VERIFIED",
+      "flags": [],
+      "ocrData": {
+        "institutionName": {
+          "value": "Government Polytechnic Mumbai",
+          "confidence": 97,
+          "flagged": false
+        },
+        "institutionCode": {
+          "value": "1-89301244",
+          "confidence": 98,
+          "flagged": false
+        },
+        "bankName": {
+          "value": "Bank of Baroda",
+          "confidence": 96,
+          "flagged": false
+        },
+        "bankBranch": {
+          "value": "Bandra East Mumbai",
+          "confidence": 93,
+          "flagged": false
+        },
+        "fdrNumber": {
+          "value": "BOB-MUM-5501928",
+          "confidence": 98,
+          "flagged": false
+        },
+        "accountNumber": {
+          "value": "9920185510",
+          "confidence": 95,
+          "flagged": false
+        },
+        "principalAmount": {
+          "value": "2500000",
+          "confidence": 99,
+          "flagged": false
+        },
+        "interestRate": {
+          "value": "6.8",
+          "confidence": 91,
+          "flagged": false
+        },
+        "issueDate": {
+          "value": "2024-02-14",
+          "confidence": 96,
+          "flagged": false
+        },
+        "maturityDate": {
+          "value": "2026-11-20",
+          "confidence": 97,
+          "flagged": false
+        },
+        "depositHolder": {
+          "value": "AICTE Security Deposit a/c GP Mumbai",
+          "confidence": 95,
+          "flagged": false
+        },
+        "receiptReference": {
+          "value": "REF/MH/2024/GP/0192",
+          "confidence": 94,
+          "flagged": false
+        },
+        "overallConfidence": 95.8,
+        "engine": "Tesseract OCR + LayoutLM",
+        "isFallbackManual": false,
+        "processedAt": "2024-02-15T09:10:00Z"
+      },
+      "uploadedBy": "GPM Administrative Officer",
+      "uploadedByRole": "COLLEGE_ADMIN",
+      "createdAt": "2024-02-15T09:00:00Z",
+      "updatedAt": "2026-10-28T07:18:26.182Z",
+      "verifiedBy": "Rajiv Kumar (via Bank CBS API)",
+      "verifiedAt": "2026-10-28T07:18:26.182Z"
+    },
+    {
+      "id": "FDR-2026-0005",
+      "institutionId": "INST-010",
+      "institutionName": "Harcourt Butler Technical University",
+      "institutionCode": "1-10294821",
+      "bankName": "HDFC Bank",
+      "bankBranch": "Civil Lines, Kanpur",
+      "fdrNumber": "HDFC-KNP-1102948",
+      "accountNumberMasked": "•••• •••• 9981",
+      "principalAmount": 3000000,
+      "interestRate": 7,
+      "issueDate": "2024-03-01",
+      "maturityDate": "2026-11-05",
+      "depositHolder": "AICTE Joint a/c HBTU Kanpur",
+      "receiptReference": "REF/UP/2024/SEC/1098",
+      "documentFileName": "hbtu_hdfc_fdr.png",
+      "documentFilePath": "/uploads/sample_hbtu.png",
+      "documentMimeType": "image/png",
+      "documentSizeBytes": 540300,
+      "documentHash": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d",
+      "status": "FLAGGED_FOR_REVIEW",
+      "flags": [
+        {
+          "id": "FLAG-003",
+          "ruleCode": "RULE_SIMILAR_RECORD",
+          "title": "Potential Duplicate Candidate (Similar Parameters)",
+          "description": "Deposit matches another branch deposit submitted in March 2024 with identical amount and bank. Human review recommended to ensure separate fixed deposits.",
+          "severity": "MEDIUM",
+          "resolved": false
+        }
+      ],
+      "ocrData": {
+        "institutionName": {
+          "value": "Harcourt Butler Technical University",
+          "confidence": 95,
+          "flagged": false
+        },
+        "institutionCode": {
+          "value": "1-10294821",
+          "confidence": 96,
+          "flagged": false
+        },
+        "bankName": {
+          "value": "HDFC Bank",
+          "confidence": 97,
+          "flagged": false
+        },
+        "bankBranch": {
+          "value": "Civil Lines Kanpur",
+          "confidence": 92,
+          "flagged": false
+        },
+        "fdrNumber": {
+          "value": "HDFC-KNP-1102948",
+          "confidence": 98,
+          "flagged": false
+        },
+        "accountNumber": {
+          "value": "501004829981",
+          "confidence": 94,
+          "flagged": false
+        },
+        "principalAmount": {
+          "value": "3000000",
+          "confidence": 97,
+          "flagged": false
+        },
+        "interestRate": {
+          "value": "7.0",
+          "confidence": 90,
+          "flagged": false
+        },
+        "issueDate": {
+          "value": "2024-03-01",
+          "confidence": 95,
+          "flagged": false
+        },
+        "maturityDate": {
+          "value": "2026-11-05",
+          "confidence": 96,
+          "flagged": false
+        },
+        "depositHolder": "AICTE Joint a/c HBTU Kanpur",
+        "receiptReference": {
+          "value": "REF/UP/2024/SEC/1098",
+          "confidence": 93,
+          "flagged": false
+        },
+        "overallConfidence": 94.6,
+        "engine": "Tesseract OCR + LayoutLM",
+        "isFallbackManual": false,
+        "processedAt": "2024-03-02T12:00:00Z"
+      },
+      "uploadedBy": "HBTU Accounts Section",
+      "uploadedByRole": "COLLEGE_ADMIN",
+      "createdAt": "2024-03-02T11:45:00Z",
+      "updatedAt": "2024-03-02T12:05:00Z"
+    },
+    {
+      "id": "FDR-2026-0006",
+      "institutionId": "INST-003",
+      "institutionName": "College of Engineering Pune (COEP)",
+      "institutionCode": "1-34891024",
+      "bankName": "Bank of Maharashtra",
+      "bankBranch": "Shivajinagar Branch, Pune",
+      "fdrNumber": "BOM-PUN-3489011",
+      "accountNumberMasked": "•••• •••• 3011",
+      "principalAmount": 4500000,
+      "interestRate": 7.15,
+      "issueDate": "2021-09-01",
+      "maturityDate": "2026-09-01",
+      "depositHolder": "AICTE a/c College of Engineering Pune",
+      "receiptReference": "REF/MH/2021/COEP/0901",
+      "documentFileName": "coep_bom_deposit.pdf",
+      "documentFilePath": "/uploads/sample_coep.pdf",
+      "documentMimeType": "application/pdf",
+      "documentSizeBytes": 380120,
+      "documentHash": "53c234e5e8472b6ac51c1ae1cab3fe06fad053beb8ebfd8977b010655bfdd3c3",
+      "status": "MATURED",
+      "flags": [
+        {
+          "id": "FLAG-004",
+          "ruleCode": "RULE_ALREADY_EXPIRED",
+          "title": "Maturity Date In the Past",
+          "description": "Deposit matured on 2026-09-01. Notice for renewal or release of guarantee sent.",
+          "severity": "MEDIUM",
+          "resolved": false
+        }
+      ],
+      "ocrData": {
+        "institutionName": {
+          "value": "College of Engineering Pune",
+          "confidence": 98,
+          "flagged": false
+        },
+        "institutionCode": {
+          "value": "1-34891024",
+          "confidence": 99,
+          "flagged": false
+        },
+        "bankName": {
+          "value": "Bank of Maharashtra",
+          "confidence": 97,
+          "flagged": false
+        },
+        "bankBranch": {
+          "value": "Shivajinagar Pune",
+          "confidence": 95,
+          "flagged": false
+        },
+        "fdrNumber": {
+          "value": "BOM-PUN-3489011",
+          "confidence": 99,
+          "flagged": false
+        },
+        "accountNumber": {
+          "value": "6012893011",
+          "confidence": 96,
+          "flagged": false
+        },
+        "principalAmount": {
+          "value": "4500000",
+          "confidence": 98,
+          "flagged": false
+        },
+        "interestRate": {
+          "value": "7.15",
+          "confidence": 93,
+          "flagged": false
+        },
+        "issueDate": {
+          "value": "2021-09-01",
+          "confidence": 98,
+          "flagged": false
+        },
+        "maturityDate": {
+          "value": "2026-09-01",
+          "confidence": 98,
+          "flagged": false
+        },
+        "depositHolder": {
+          "value": "AICTE a/c College of Engineering Pune",
+          "confidence": 97,
+          "flagged": false
+        },
+        "receiptReference": {
+          "value": "REF/MH/2021/COEP/0901",
+          "confidence": 95,
+          "flagged": false
+        },
+        "overallConfidence": 97,
+        "engine": "Tesseract OCR",
+        "isFallbackManual": false,
+        "processedAt": "2021-09-02T10:00:00Z"
+      },
+      "verifiedBy": "Rajiv Kumar (AICTE Officer)",
+      "verifiedAt": "2021-09-05T11:00:00Z",
+      "uploadedBy": "COEP Finance Team",
+      "uploadedByRole": "COLLEGE_ADMIN",
+      "createdAt": "2021-09-02T09:30:00Z",
+      "updatedAt": "2026-09-02T00:00:00Z"
+    },
+    {
+      "id": "FDR-2026-0007",
+      "institutionId": "INST-004",
+      "institutionName": "PSG College of Technology",
+      "institutionCode": "1-45671239",
+      "bankName": "Indian Overseas Bank",
+      "bankBranch": "Peelamedu, Coimbatore",
+      "fdrNumber": "IOB-CBE-4567890",
+      "accountNumberMasked": "•••• •••• 7890",
+      "principalAmount": 4000000,
+      "interestRate": 7.2,
+      "issueDate": "2023-11-10",
+      "maturityDate": "2028-11-10",
+      "depositHolder": "AICTE New Delhi a/c PSG College of Technology",
+      "receiptReference": "REF/TN/2023/PSG/1110",
+      "documentFileName": "psg_tech_iob_fdr.pdf",
+      "documentFilePath": "/uploads/sample_psg.pdf",
+      "documentMimeType": "application/pdf",
+      "documentSizeBytes": 412000,
+      "documentHash": "111122223333444455556666777788889999aaaabbbbccccddddeeeeffff0000",
+      "status": "VERIFIED",
+      "flags": [],
+      "ocrData": {
+        "institutionName": {
+          "value": "PSG College of Technology",
+          "confidence": 99,
+          "flagged": false
+        },
+        "institutionCode": {
+          "value": "1-45671239",
+          "confidence": 99,
+          "flagged": false
+        },
+        "bankName": {
+          "value": "Indian Overseas Bank",
+          "confidence": 97,
+          "flagged": false
+        },
+        "bankBranch": {
+          "value": "Peelamedu Coimbatore",
+          "confidence": 95,
+          "flagged": false
+        },
+        "fdrNumber": {
+          "value": "IOB-CBE-4567890",
+          "confidence": 98,
+          "flagged": false
+        },
+        "accountNumber": {
+          "value": "012903847890",
+          "confidence": 95,
+          "flagged": false
+        },
+        "principalAmount": {
+          "value": "4000000",
+          "confidence": 99,
+          "flagged": false
+        },
+        "interestRate": {
+          "value": "7.2",
+          "confidence": 93,
+          "flagged": false
+        },
+        "issueDate": {
+          "value": "2023-11-10",
+          "confidence": 98,
+          "flagged": false
+        },
+        "maturityDate": {
+          "value": "2028-11-10",
+          "confidence": 98,
+          "flagged": false
+        },
+        "depositHolder": {
+          "value": "AICTE New Delhi a/c PSG College of Technology",
+          "confidence": 97,
+          "flagged": false
+        },
+        "receiptReference": {
+          "value": "REF/TN/2023/PSG/1110",
+          "confidence": 96,
+          "flagged": false
+        },
+        "overallConfidence": 97.2,
+        "engine": "Tesseract OCR",
+        "isFallbackManual": false,
+        "processedAt": "2023-11-12T14:00:00Z"
+      },
+      "verifiedBy": "Rajiv Kumar (AICTE Officer)",
+      "verifiedAt": "2023-11-14T10:00:00Z",
+      "uploadedBy": "PSG Accounts Officer",
+      "uploadedByRole": "COLLEGE_ADMIN",
+      "createdAt": "2023-11-12T12:00:00Z",
+      "updatedAt": "2023-11-14T10:00:00Z"
+    },
+    {
+      "id": "FDR-2026-0008",
+      "institutionId": "INST-007",
+      "institutionName": "BMS College of Engineering",
+      "institutionCode": "1-74892011",
+      "bankName": "Canara Bank",
+      "bankBranch": "Basavanagudi, Bengaluru",
+      "fdrNumber": "CNB-BLR-8812309",
+      "accountNumberMasked": "•••• •••• 2309",
+      "principalAmount": 4500000,
+      "interestRate": 7.1,
+      "issueDate": "2024-05-15",
+      "maturityDate": "2029-05-15",
+      "depositHolder": "AICTE New Delhi a/c BMS College of Engineering",
+      "receiptReference": "REF/KA/2024/BMS/0515",
+      "documentFileName": "bmsce_canara_fdr.pdf",
+      "documentFilePath": "/uploads/sample_bmsce.pdf",
+      "documentMimeType": "application/pdf",
+      "documentSizeBytes": 350000,
+      "documentHash": "aabbccddeeff00112233445566778899aabbccddeeff00112233445566778899",
+      "status": "PENDING_VERIFICATION",
+      "flags": [],
+      "ocrData": {
+        "institutionName": {
+          "value": "BMS College of Engineering",
+          "confidence": 98,
+          "flagged": false
+        },
+        "institutionCode": {
+          "value": "1-74892011",
+          "confidence": 98,
+          "flagged": false
+        },
+        "bankName": {
+          "value": "Canara Bank",
+          "confidence": 96,
+          "flagged": false
+        },
+        "bankBranch": {
+          "value": "Basavanagudi Bengaluru",
+          "confidence": 94,
+          "flagged": false
+        },
+        "fdrNumber": {
+          "value": "CNB-BLR-8812309",
+          "confidence": 98,
+          "flagged": false
+        },
+        "accountNumber": {
+          "value": "048910282309",
+          "confidence": 95,
+          "flagged": false
+        },
+        "principalAmount": {
+          "value": "4500000",
+          "confidence": 99,
+          "flagged": false
+        },
+        "interestRate": {
+          "value": "7.1",
+          "confidence": 92,
+          "flagged": false
+        },
+        "issueDate": {
+          "value": "2024-05-15",
+          "confidence": 97,
+          "flagged": false
+        },
+        "maturityDate": {
+          "value": "2029-05-15",
+          "confidence": 97,
+          "flagged": false
+        },
+        "depositHolder": {
+          "value": "AICTE New Delhi a/c BMS College of Engineering",
+          "confidence": 96,
+          "flagged": false
+        },
+        "receiptReference": {
+          "value": "REF/KA/2024/BMS/0515",
+          "confidence": 94,
+          "flagged": false
+        },
+        "overallConfidence": 96.2,
+        "engine": "Tesseract OCR",
+        "isFallbackManual": false,
+        "processedAt": "2024-05-16T11:00:00Z"
+      },
+      "uploadedBy": "BMSCE Finance Registrar",
+      "uploadedByRole": "COLLEGE_ADMIN",
+      "createdAt": "2024-05-16T10:30:00Z",
+      "updatedAt": "2024-05-16T11:05:00Z"
+    },
+    {
+      "id": "FDR-2026-0009",
+      "institutionId": "INST-001",
+      "institutionName": "R.V. College of Engineering",
+      "institutionCode": "1-10972361",
+      "bankName": "State Bank of India",
+      "bankBranch": "Mysore Road Campus Branch, Bengaluru",
+      "fdrNumber": "SBI-FDR-8890214-DUP",
+      "accountNumberMasked": "•••• •••• 9012",
+      "principalAmount": 3500000,
+      "interestRate": 7.1,
+      "issueDate": "2024-06-01",
+      "maturityDate": "2029-06-01",
+      "depositHolder": "AICTE New Delhi a/c RV College of Engineering",
+      "receiptReference": "REF/KA/2024/SEC/0912",
+      "documentFileName": "rvce_duplicate_test.pdf",
+      "documentFilePath": "/uploads/sample_rvce_dup.pdf",
+      "documentMimeType": "application/pdf",
+      "documentSizeBytes": 420180,
+      "documentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "status": "FLAGGED_FOR_REVIEW",
+      "flags": [
+        {
+          "id": "FLAG-005",
+          "ruleCode": "RULE_EXACT_DOC_HASH",
+          "title": "Identical Document File Detected",
+          "description": "Uploaded certificate binary hash exactly matches existing approved record FDR-2026-0001. Requires verification whether fresh deposit was created or previous scan re-submitted.",
+          "severity": "HIGH",
+          "resolved": false
+        }
+      ],
+      "ocrData": {
+        "institutionName": {
+          "value": "R.V. College of Engineering",
+          "confidence": 97,
+          "flagged": false
+        },
+        "institutionCode": {
+          "value": "1-10972361",
+          "confidence": 98,
+          "flagged": false
+        },
+        "bankName": {
+          "value": "State Bank of India",
+          "confidence": 96,
+          "flagged": false
+        },
+        "bankBranch": {
+          "value": "Mysore Road Campus",
+          "confidence": 94,
+          "flagged": false
+        },
+        "fdrNumber": {
+          "value": "SBI-FDR-8890214",
+          "confidence": 98,
+          "flagged": false
+        },
+        "accountNumber": {
+          "value": "9847291012",
+          "confidence": 95,
+          "flagged": false
+        },
+        "principalAmount": {
+          "value": "3500000",
+          "confidence": 98,
+          "flagged": false
+        },
+        "interestRate": {
+          "value": "7.1",
+          "confidence": 92,
+          "flagged": false
+        },
+        "issueDate": {
+          "value": "2023-04-10",
+          "confidence": 97,
+          "flagged": false
+        },
+        "maturityDate": {
+          "value": "2028-04-10",
+          "confidence": 97,
+          "flagged": false
+        },
+        "depositHolder": {
+          "value": "AICTE New Delhi a/c RV College of Engineering",
+          "confidence": 95,
+          "flagged": false
+        },
+        "receiptReference": {
+          "value": "REF/KA/2023/SEC/0109",
+          "confidence": 94,
+          "flagged": false
+        },
+        "overallConfidence": 96,
+        "engine": "Tesseract OCR",
+        "isFallbackManual": false,
+        "processedAt": "2024-06-02T10:00:00Z"
+      },
+      "uploadedBy": "Dr. Sneha Kulkarni",
+      "uploadedByRole": "COLLEGE_ADMIN",
+      "createdAt": "2024-06-02T09:40:00Z",
+      "updatedAt": "2024-06-02T10:05:00Z"
+    },
+    {
+      "id": "FDR-2026-0010",
+      "institutionId": "INST-006",
+      "institutionName": "Veermata Jijabai Technological Institute (VJTI)",
+      "institutionCode": "1-69830214",
+      "bankName": "Union Bank of India",
+      "bankBranch": "Matunga West, Mumbai",
+      "fdrNumber": "UBI-MUM-7729104",
+      "accountNumberMasked": "•••• •••• 9104",
+      "principalAmount": 4000000,
+      "interestRate": 7.05,
+      "issueDate": "2024-04-01",
+      "maturityDate": "2029-04-01",
+      "depositHolder": "AICTE New Delhi a/c VJTI Mumbai",
+      "receiptReference": "REF/MH/2024/VJTI/0401",
+      "documentFileName": "vjti_fdr_union_bank.pdf",
+      "documentFilePath": "/uploads/sample_vjti.pdf",
+      "documentMimeType": "application/pdf",
+      "documentSizeBytes": 330000,
+      "documentHash": "99887766554433221100aabbccddeeff99887766554433221100aabbccddeeff",
+      "status": "NEEDS_CORRECTION",
+      "correctionReason": "The branch manager signature stamp is partially cropped on page 1. Please re-upload a clear flat scan showing all endorsement margins.",
+      "flags": [],
+      "ocrData": {
+        "institutionName": {
+          "value": "Veermata Jijabai Technological Institute",
+          "confidence": 96,
+          "flagged": false
+        },
+        "institutionCode": {
+          "value": "1-69830214",
+          "confidence": 97,
+          "flagged": false
+        },
+        "bankName": {
+          "value": "Union Bank of India",
+          "confidence": 95,
+          "flagged": false
+        },
+        "bankBranch": {
+          "value": "Matunga West Mumbai",
+          "confidence": 92,
+          "flagged": false
+        },
+        "fdrNumber": {
+          "value": "UBI-MUM-7729104",
+          "confidence": 97,
+          "flagged": false
+        },
+        "accountNumber": {
+          "value": "550192839104",
+          "confidence": 94,
+          "flagged": false
+        },
+        "principalAmount": {
+          "value": "4000000",
+          "confidence": 98,
+          "flagged": false
+        },
+        "interestRate": {
+          "value": "7.05",
+          "confidence": 91,
+          "flagged": false
+        },
+        "issueDate": {
+          "value": "2024-04-01",
+          "confidence": 96,
+          "flagged": false
+        },
+        "maturityDate": {
+          "value": "2029-04-01",
+          "confidence": 96,
+          "flagged": false
+        },
+        "depositHolder": {
+          "value": "AICTE New Delhi a/c VJTI Mumbai",
+          "confidence": 95,
+          "flagged": false
+        },
+        "receiptReference": {
+          "value": "REF/MH/2024/VJTI/0401",
+          "confidence": 93,
+          "flagged": false
+        },
+        "overallConfidence": 95,
+        "engine": "Tesseract OCR",
+        "isFallbackManual": false,
+        "processedAt": "2024-04-02T15:00:00Z"
+      },
+      "uploadedBy": "VJTI Registrar Office",
+      "uploadedByRole": "COLLEGE_ADMIN",
+      "createdAt": "2024-04-02T14:30:00Z",
+      "updatedAt": "2024-04-05T11:20:00Z"
+    }
+  ],
+  "reviewCases": [
+    {
+      "id": "CASE-2026-001",
+      "fdrId": "FDR-2026-0003",
+      "fdrNumber": "CNB-SEC-7740192",
+      "institutionName": "Birla Institute of Technology, Mesra",
+      "institutionCode": "1-51290384",
+      "ruleTriggered": "RULE_NAME_MISMATCH",
+      "severity": "MEDIUM",
+      "status": "IN_REVIEW",
+      "assignedTo": "Rajiv Kumar (AICTE Officer)",
+      "detectedAt": "2024-01-22T08:35:00Z",
+      "supportingEvidence": [
+        {
+          "field": "Institution Legal Entity Name",
+          "enteredValue": "Birla Institute of Technology, Mesra",
+          "comparisonValue": "Birla Institute of Technology Trust",
+          "source": "Scanned FDR Certificate Header",
+          "note": "Deposit certificate specifies Trust entity rather than registered College entity. AICTE regulations require lien marked in AICTE joint name."
+        },
+        {
+          "field": "OCR Average Confidence",
+          "enteredValue": "74.2%",
+          "comparisonValue": ">= 75.0% Recommended",
+          "source": "Automated OCR Optical Engine",
+          "note": "Branch seal area scanned at moderate DPI; clarity check advised."
+        }
+      ],
+      "notes": [
+        {
+          "id": "NOTE-001",
+          "author": "Rajiv Kumar",
+          "role": "AICTE_OFFICER",
+          "text": "Examined trust deed. The trust is indeed the sponsoring body for BIT Mesra. Sent clarification query to Canara Bank branch manager to confirm lien endorsement.",
+          "createdAt": "2024-01-23T11:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CASE-2026-002",
+      "fdrId": "FDR-2026-0005",
+      "fdrNumber": "HDFC-KNP-1102948",
+      "institutionName": "Harcourt Butler Technical University",
+      "institutionCode": "1-10294821",
+      "ruleTriggered": "RULE_SIMILAR_RECORD",
+      "severity": "MEDIUM",
+      "status": "OPEN",
+      "assignedTo": "Vinod Sharma (Auditor)",
+      "detectedAt": "2024-03-02T12:05:00Z",
+      "supportingEvidence": [
+        {
+          "field": "Deposit Amount & Period",
+          "enteredValue": "₹30,00,000 @ HDFC Bank (due 2026-11-05)",
+          "comparisonValue": "₹30,00,000 in HDFC Kanpur registry archive",
+          "source": "Heuristic Pattern Matching",
+          "note": "Similar value fixed deposit observed in previous year cycle. Requires cross-verification with active CBS balance report."
+        }
+      ],
+      "notes": [
+        {
+          "id": "NOTE-002",
+          "author": "Vinod Sharma",
+          "role": "AUDITOR",
+          "text": "Checked account suffix. Account ends in 9981 while previous cycle deposit was 4410. Appears to be distinct renewal deposit. Pending bank confirmation.",
+          "createdAt": "2024-03-03T14:15:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CASE-2026-003",
+      "fdrId": "FDR-2026-0009",
+      "fdrNumber": "SBI-FDR-8890214-DUP",
+      "institutionName": "R.V. College of Engineering",
+      "institutionCode": "1-10972361",
+      "ruleTriggered": "RULE_EXACT_DOC_HASH",
+      "severity": "HIGH",
+      "status": "ESCALATED",
+      "assignedTo": "Rajiv Kumar (AICTE Officer)",
+      "detectedAt": "2024-06-02T10:05:00Z",
+      "supportingEvidence": [
+        {
+          "field": "Document SHA-256 Checksum",
+          "enteredValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "comparisonValue": "Exact match with record FDR-2026-0001",
+          "source": "Cryptographic Document Store",
+          "note": "Uploaded PDF is an exact bit-for-bit duplicate of the approved certificate submitted in April 2023."
+        }
+      ],
+      "notes": [
+        {
+          "id": "NOTE-003",
+          "author": "Dr. T. G. Sitharam",
+          "role": "SUPER_ADMIN",
+          "text": "Escalated for immediate review. College representative must clarify if an administrative filing mistake occurred or if this was an accidental re-upload.",
+          "createdAt": "2024-06-03T09:30:00Z"
+        }
+      ]
+    }
+  ],
+  "bankAttempts": [
+    {
+      "attemptId": "ATTEMPT-1793171906176-952",
+      "fdrId": "FDR-2026-0004",
+      "bankName": "Bank of Baroda",
+      "fdrNumber": "BOB-MUM-5501928",
+      "provider": "MOCK_CORE_BANKING_API",
+      "status": "SUCCESS",
+      "responseCode": "CBS_CONFIRMED_200",
+      "responseMessage": "Deposit receipt verified successfully against Bank of Baroda Core Banking Records.",
+      "attemptedAt": "2026-10-28T07:18:26.176Z",
+      "attemptedBy": "Rajiv Kumar",
+      "matchedFields": [
+        "FDR Receipt Number Valid",
+        "Principal Amount Matches Exactly",
+        "Account Lien Status: AICTE Marked",
+        "Active & In-Force Deposit"
+      ],
+      "mismatchedFields": [],
+      "maskedPayload": {
+        "receiptNumber": "BOB-MUM-5501928",
+        "holderName": "Government Polytechnic Mumbai",
+        "amountCheck": "₹25,00,000",
+        "statusReported": "ACTIVE_SECURITY_DEPOSIT"
+      },
+      "simulatedProviderNotes": "SIMULATED MOCK TELEMETRY: Standard mock banking confirmation returned. This is synthetic test data for hackathon demo."
+    },
+    {
+      "id": "ATTEMPT-2023-010",
+      "fdrId": "FDR-2026-0001",
+      "bankName": "State Bank of India",
+      "fdrNumber": "SBI-FDR-8890214",
+      "provider": "MOCK_CORE_BANKING_API",
+      "status": "SUCCESS",
+      "attemptedAt": "2023-04-12T14:28:00Z",
+      "attemptedBy": "Rajiv Kumar (AICTE Officer)",
+      "responseCode": "CBS_CONFIRMED_200",
+      "responseMessage": "Deposit receipt verified successfully against State Bank of India Core Banking Records.",
+      "maskedPayload": {
+        "receiptNumber": "SBI-FDR-8890214",
+        "holderName": "R.V. College of Engineering",
+        "amountCheck": "₹35,00,000",
+        "statusReported": "ACTIVE_SECURITY_DEPOSIT"
+      },
+      "matchedFields": [
+        "FDR Receipt Number Valid",
+        "Principal Amount Matches",
+        "AICTE Lien Marked"
+      ],
+      "mismatchedFields": []
+    },
+    {
+      "id": "ATTEMPT-2022-044",
+      "fdrId": "FDR-2026-0002",
+      "bankName": "Punjab National Bank",
+      "fdrNumber": "PNB-DEL-9921443",
+      "provider": "MOCK_CORE_BANKING_API",
+      "status": "SUCCESS",
+      "attemptedAt": "2022-08-17T16:15:00Z",
+      "attemptedBy": "Rajiv Kumar (AICTE Officer)",
+      "responseCode": "CBS_CONFIRMED_200",
+      "responseMessage": "Deposit receipt verified successfully against Punjab National Bank Core Banking Records.",
+      "maskedPayload": {
+        "receiptNumber": "PNB-DEL-9921443",
+        "holderName": "Delhi Technological University",
+        "amountCheck": "₹50,00,000",
+        "statusReported": "ACTIVE_SECURITY_DEPOSIT"
+      },
+      "matchedFields": [
+        "Receipt Number Valid",
+        "Amount Matches",
+        "Lien AICTE Active"
+      ],
+      "mismatchedFields": []
+    }
+  ],
+  "notifications": [
+    {
+      "id": "NOTIF-DEDUP-1793172208864-0.8426209990015514",
+      "title": "Duplicate Prevention Check DEDUP-1793172208864-0.8426209990015514",
+      "message": "Test notification deduplication message",
+      "type": "SYSTEM",
+      "severity": "info",
+      "read": false,
+      "fdrId": "FDR-DEDUP-1793172208864-0.8426209990015514",
+      "institutionId": "INST-001",
+      "createdAt": "2026-10-28T07:23:28.864Z"
+    },
+    {
+      "id": "NOTIF-MAT-15-FDR-2026-0005",
+      "title": "Urgent Maturity Notice (15 Days): FDR-2026-0005",
+      "message": "Security deposit HDFC-KNP-1102948 matures in 8 days (2026-11-05). Renewal required.",
+      "type": "MATURITY",
+      "severity": "danger",
+      "read": false,
+      "fdrId": "FDR-2026-0005",
+      "institutionId": "INST-010",
+      "createdAt": "2026-10-28"
+    },
+    {
+      "id": "NOTIF-MAT-30-FDR-2026-0004",
+      "title": "Maturity Notice (30 Days): FDR-2026-0004",
+      "message": "Security deposit BOB-MUM-5501928 (Government Polytechnic Mumbai) for ₹25,00,000 matures in 23 days (2026-11-20).",
+      "type": "MATURITY",
+      "severity": "warning",
+      "read": false,
+      "fdrId": "FDR-2026-0004",
+      "institutionId": "INST-008",
+      "createdAt": "2026-10-28"
+    },
+    {
+      "id": "NOTIF-DEDUP-TEST",
+      "title": "Duplicate Prevention Check",
+      "message": "Test notification deduplication message",
+      "type": "SYSTEM",
+      "severity": "info",
+      "read": false,
+      "fdrId": "FDR-DEDUP-001",
+      "institutionId": "INST-001",
+      "createdAt": "2026-10-28T06:58:21.172Z"
+    },
+    {
+      "id": "NOTIF-001",
+      "title": "Maturity Alert: 8 Days Remaining",
+      "message": "Deposit FDR-2026-0005 (Harcourt Butler Technical University) for ₹30,00,000 is maturing on 2026-11-05. Renewal notice dispatched.",
+      "type": "MATURITY",
+      "severity": "danger",
+      "read": false,
+      "fdrId": "FDR-2026-0005",
+      "institutionId": "INST-010",
+      "createdAt": "2026-10-28T09:00:00Z"
+    },
+    {
+      "id": "NOTIF-002",
+      "title": "Maturity Window: 23 Days Remaining",
+      "message": "Deposit FDR-2026-0004 (Government Polytechnic Mumbai) for ₹25,00,000 matures on 2026-11-20. 30-day notice active.",
+      "type": "MATURITY",
+      "severity": "warning",
+      "read": false,
+      "fdrId": "FDR-2026-0004",
+      "institutionId": "INST-008",
+      "createdAt": "2026-10-25T10:00:00Z"
+    },
+    {
+      "id": "NOTIF-003",
+      "title": "Discrepancy Flag: Document Hash Collision",
+      "message": "Deposit FDR-2026-0009 flagged for identical document hash collision with record FDR-2026-0001. Escalated case CASE-2026-003 created.",
+      "type": "DISCREPANCY",
+      "severity": "danger",
+      "read": false,
+      "fdrId": "FDR-2026-0009",
+      "institutionId": "INST-001",
+      "createdAt": "2024-06-02T10:06:00Z"
+    },
+    {
+      "id": "NOTIF-004",
+      "title": "Verification Completed",
+      "message": "FDR-2026-0007 (PSG College of Technology) for ₹40,00,000 successfully verified with Indian Overseas Bank.",
+      "type": "VERIFICATION",
+      "severity": "success",
+      "read": true,
+      "fdrId": "FDR-2026-0007",
+      "institutionId": "INST-004",
+      "createdAt": "2023-11-14T10:05:00Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "LOG-1793174460654-176",
+      "timestamp": "2026-10-28T08:01:00.654Z",
+      "actorId": "Dr. T. G. Sitharam",
+      "actorName": "Dr. T. G. Sitharam",
+      "actorRole": "SUPER_ADMIN",
+      "action": "FDR_UPLOAD",
+      "entityType": "FDR",
+      "entityId": "FDR-2026-0011",
+      "ipAddress": "127.0.0.1",
+      "details": "Lodged new deposit SBI-FDR-214966 for ₹35,00,000. Initial status: PENDING_VERIFICATION. Hash: 5e59c7e8..."
+    },
+    {
+      "id": "LOG-1793172208864-200",
+      "timestamp": "2026-10-28T07:23:28.864Z",
+      "actorId": "USR-TEST",
+      "actorName": "Test Tester",
+      "actorRole": "AICTE_OFFICER",
+      "action": "TEST_ACTION_EXECUTION",
+      "entityType": "FDR",
+      "entityId": "FDR-TEST-PERSIST",
+      "ipAddress": "127.0.0.1",
+      "details": "Testing audit log creation and immutability"
+    },
+    {
+      "id": "LOG-1793172193036-229",
+      "timestamp": "2026-10-28T07:23:13.036Z",
+      "actorId": "USR-TEST",
+      "actorName": "Test Tester",
+      "actorRole": "AICTE_OFFICER",
+      "action": "TEST_ACTION_EXECUTION",
+      "entityType": "FDR",
+      "entityId": "FDR-TEST-PERSIST",
+      "ipAddress": "127.0.0.1",
+      "details": "Testing audit log creation and immutability"
+    },
+    {
+      "id": "LOG-1793171906183-256",
+      "timestamp": "2026-10-28T07:18:26.183Z",
+      "actorId": "Rajiv Kumar",
+      "actorName": "Rajiv Kumar",
+      "actorRole": "AICTE_OFFICER",
+      "action": "BANK_VERIFICATION_ATTEMPT",
+      "entityType": "BANK_VERIFICATION",
+      "entityId": "ATTEMPT-1793171906176-952",
+      "ipAddress": "::ffff:127.0.0.1",
+      "details": "Mock CBS verification against Bank of Baroda returned SUCCESS (CBS_CONFIRMED_200)."
+    },
+    {
+      "id": "LOG-1793170701172-403",
+      "timestamp": "2026-10-28T06:58:21.172Z",
+      "actorId": "USR-TEST",
+      "actorName": "Test Tester",
+      "actorRole": "AICTE_OFFICER",
+      "action": "TEST_ACTION_EXECUTION",
+      "entityType": "FDR",
+      "entityId": "FDR-TEST-PERSIST",
+      "ipAddress": "127.0.0.1",
+      "details": "Testing audit log creation and immutability"
+    },
+    {
+      "id": "LOG-001",
+      "timestamp": "2026-10-28T10:00:00Z",
+      "actorId": "USR-002",
+      "actorName": "Rajiv Kumar",
+      "actorRole": "AICTE_OFFICER",
+      "action": "LOGIN",
+      "entityType": "USER",
+      "entityId": "USR-002",
+      "ipAddress": "10.24.11.89",
+      "details": "Authenticated via AICTE Single Sign-On Portal"
+    },
+    {
+      "id": "LOG-002",
+      "timestamp": "2024-06-02T10:05:00Z",
+      "actorId": "SYSTEM",
+      "actorName": "SmartFDR Verification Engine",
+      "actorRole": "SYSTEM",
+      "action": "FLAG_TRIGGERED",
+      "entityType": "FDR",
+      "entityId": "FDR-2026-0009",
+      "ipAddress": "127.0.0.1",
+      "details": "Triggered RULE_EXACT_DOC_HASH: File checksum matches approved record FDR-2026-0001. Generated review case CASE-2026-003."
+    },
+    {
+      "id": "LOG-003",
+      "timestamp": "2024-01-22T08:35:00Z",
+      "actorId": "SYSTEM",
+      "actorName": "SmartFDR Verification Engine",
+      "actorRole": "SYSTEM",
+      "action": "FLAG_TRIGGERED",
+      "entityType": "FDR",
+      "entityId": "FDR-2026-0003",
+      "ipAddress": "127.0.0.1",
+      "details": "Triggered RULE_NAME_MISMATCH: Extracted certificate header differs from registered college title. Created CASE-2026-001."
+    },
+    {
+      "id": "LOG-004",
+      "timestamp": "2023-11-14T10:00:00Z",
+      "actorId": "USR-002",
+      "actorName": "Rajiv Kumar",
+      "actorRole": "AICTE_OFFICER",
+      "action": "FDR_VERIFIED",
+      "entityType": "FDR",
+      "entityId": "FDR-2026-0007",
+      "ipAddress": "10.24.11.89",
+      "details": "Approved security deposit after successful bank confirmation from Indian Overseas Bank."
+    },
+    {
+      "id": "LOG-005",
+      "timestamp": "2023-04-12T14:30:00Z",
+      "actorId": "USR-002",
+      "actorName": "Rajiv Kumar",
+      "actorRole": "AICTE_OFFICER",
+      "action": "BANK_VERIFICATION",
+      "entityType": "BANK_VERIFICATION",
+      "entityId": "ATTEMPT-2023-010",
+      "ipAddress": "10.24.11.89",
+      "details": "Executed Core Banking System verification against State Bank of India. Returned CBS_CONFIRMED_200."
+    }
+  ],
+  "settings": {
+    "mockBankMode": "AUTO_SUCCESS",
+    "mockBankLatencyMs": 600,
+    "duplicateReceiptDetection": true,
+    "exactDocumentHashDetection": true,
+    "ocrConfidenceThreshold": 75,
+    "maturityNotificationWindows": [
+      30,
+      15,
+      7,
+      0
+    ],
+    "autoFlagAnomalies": true
+  }
+}

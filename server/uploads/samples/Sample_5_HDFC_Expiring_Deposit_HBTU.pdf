@@ -1,0 +1,91 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 2834 >>
+stream
+0.1 0.2 0.35 rg
+25 720 562 48 re f
+1 1 1 rg
+BT /F1 16 Tf 40 742 Td (HDFC BANK) Tj ET
+BT /F2 10 Tf 40 730 Td (Civil Lines Branch, Kanpur (IFSC: HDFC0000129)) Tj ET
+BT /F1 11 Tf 430 738 Td (SECURITY DEPOSIT RECEIPT) Tj ET
+0.2 0.2 0.2 rg
+BT /F1 13 Tf 140 680 Td (TERM DEPOSIT RECEIPT / AICTE STATUTORY LIEN) Tj ET
+0.8 0.8 0.8 RG 25 670 562 0.5 re S
+0.96 0.97 0.98 rg 25 560 562 100 re f
+0.8 0.8 0.8 RG 25 560 562 100 re S
+0 0 0 rg
+BT /F1 10 Tf 40 642 Td (FDR / Certificate No:) Tj ET
+BT /F1 11 Tf 160 642 Td (HDFC-KNP-1102948) Tj ET
+BT /F1 10 Tf 350 642 Td (Account No (Masked):) Tj ET
+BT /F2 10 Tf 470 642 Td (501004829981) Tj ET
+BT /F1 10 Tf 40 615 Td (Principal Deposit Sum:) Tj ET
+BT /F1 12 Tf 160 615 Td (INR 30,00,000.00) Tj ET
+BT /F1 10 Tf 350 615 Td (Annual Interest Rate:) Tj ET
+BT /F2 10 Tf 470 615 Td (7.00% p.a.) Tj ET
+BT /F1 10 Tf 40 588 Td (Amount in Words:) Tj ET
+BT /F2 9 Tf 160 588 Td (Rupees Thirty Lakhs Only) Tj ET
+BT /F1 10 Tf 40 565 Td (Date of Issuance:) Tj ET
+BT /F2 10 Tf 160 565 Td (01-Mar-2024) Tj ET
+BT /F1 10 Tf 350 565 Td (Date of Maturity:) Tj ET
+BT /F1 10 Tf 470 565 Td (05-Nov-2026) Tj ET
+0.98 0.98 0.98 rg 25 430 562 110 re f
+0.8 0.8 0.8 RG 25 430 562 110 re S
+0.05 0.5 0.45 rg
+BT /F1 11 Tf 40 522 Td (DEPOSIT HOLDER & LIEN PARTICULARS) Tj ET
+0 0 0 rg
+BT /F1 10 Tf 40 498 Td (In the Name of:) Tj ET
+BT /F1 10 Tf 160 498 Td (AICTE Joint a/c HBTU Kanpur) Tj ET
+BT /F1 10 Tf 40 472 Td (Educational Institution:) Tj ET
+BT /F2 10 Tf 160 472 Td (Harcourt Butler Technical University (AICTE: 1-10294821)) Tj ET
+BT /F1 10 Tf 40 445 Td (Statutory Lien Condition:) Tj ET
+BT /F2 9 Tf 160 445 Td (Critical Maturity Window test candidate (≤ 8 days remaining)) Tj ET
+0.95 0.95 0.95 rg 25 330 562 80 re f
+0.85 0.85 0.85 RG 25 330 562 80 re S
+0.2 0.2 0.2 rg
+BT /F1 9 Tf 40 395 Td (BANK MANDATE & UNDERTAKING TO AICTE:) Tj ET
+BT /F2 8 Tf 40 380 Td (1. This security deposit is held under lien to the Member Secretary, AICTE New Delhi.) Tj ET
+BT /F2 8 Tf 40 365 Td (2. No loan, overdraft, premature encashment, or lien transfer shall be permitted without prior written Council consent.) Tj ET
+BT /F2 8 Tf 40 350 Td (3. Interest accrued shall remain linked to the deposit unless auto-reinvested in renewal terms.) Tj ET
+0.8 0.8 0.8 RG 25 210 562 100 re S
+0.3 0.3 0.3 rg
+BT /F2 9 Tf 60 230 Td (Branch Accountant / Officer) Tj ET
+BT /F1 9 Tf 380 230 Td (Authorized Branch Manager & Seal) Tj ET
+0.1 0.2 0.35 RG 360 250 180 50 re S
+0.1 0.2 0.35 rg
+BT /F1 8 Tf 375 285 Td (SCHEDULED COMMERCIAL BANK) Tj ET
+BT /F2 8 Tf 375 270 Td (CBS SEAL: HDFC-KNP-AUTH-1102) Tj ET
+BT /F2 7 Tf 375 258 Td (Digitally Confirmed on CBS Gateway) Tj ET
+0.5 0.5 0.5 rg
+BT /F2 8 Tf 160 160 Td (Generated for AICTE SmartFDR Security Deposit Verification System) Tj ET
+BT /F2 7 Tf 200 145 Td (Strictly Valid for Prototype & Evaluation Use Only) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000003137 00000 n 
+0000003212 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3282
+%%EOF
